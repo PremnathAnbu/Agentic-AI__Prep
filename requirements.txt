@@ -3,6 +3,7 @@ python-dotenv
 langchain-openai
 langchain-core
 langchain-community
+langchain_chroma
 bs4
 faiss-cpu
 pypdf
