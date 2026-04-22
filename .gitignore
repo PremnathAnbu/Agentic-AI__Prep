@@ -1,3 +1,4 @@
 .env
 .venv/
 .env
+RAG_SYSTEM/Basic_intro/db/
