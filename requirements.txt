@@ -16,3 +16,5 @@ langchain_groq
 langchainhub
 langchain_experimental
 yfinance
+pandas
+scikit-learn
