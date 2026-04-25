@@ -13,3 +13,6 @@ wikipedia
 lxml
 langchain_huggingface
 langchain_groq
+langchainhub
+langchain_experimental
+yfinance
