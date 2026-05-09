@@ -20,4 +20,6 @@ pandas
 scikit-learn
 langgraph
 langchain_core
+beautifulsoup4
 langgraph-cli[inmem]
+langchain_classic
